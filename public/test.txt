@@ -1,0 +1,5 @@
+AJAX stands for Asynchronous JavaScript and XML. It is a set of web development techniques which allow web applications to work asynchronously – processing any requests to the server in the background.
+
+JavaScript is a well-known coding language. Amongst its other functionality, it manages dynamic content of a website and allows dynamic user interaction. XML is another variant of a markup language like HTML, as suggested by the name – eXtensible Markup Language. If HTML is designed to display data, XML is designed to contain and carry data.
+
+Both JavaScript and XML work asynchronously in AJAX. As a result, any web application using AJAX can send and retrieve data from the server without the need to reload the entire page.
